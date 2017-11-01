@@ -1,7 +1,10 @@
-responses must include headers
+# Simple HTTP Responder
 
-python simple_responder.py my_response.txt
+python simple\_responder.py my\_response.txt
 
-python simple_responder.py
-    paste response - mash enter to leave input mode
+-or-
+
+python simple\_responder.py
+* paste response - mash enter to leave input mode
     
+responses must include headers
